@@ -1,1 +1,1 @@
-# basic
+print("fu Fu fu")
